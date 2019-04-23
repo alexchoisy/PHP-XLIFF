@@ -1,5 +1,5 @@
 {
-  "name": "alexchoisy/PHP-XLIFF",
+  "name": "alexchoisy/php-xliff",
   "require-dev": {
     "phpunit/phpunit": "^6.2"
   }
